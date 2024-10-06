@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently a student in Engineering, based in Milan, Italy.
+I have interest in Analysis of data and Cloud computing. At the moment I'm learning C language at university.
+![IMG_20210220_134547](https://github.com/user-attachments/assets/5ba994b5-3af2-4f17-929c-c23a2d106e02)
